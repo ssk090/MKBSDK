@@ -11,3 +11,6 @@ done
 
 ### To check the total number of files
 ls | wc -l
+
+### Interesting Project
+- https://jsfiddle.net/hkb6pL20/
